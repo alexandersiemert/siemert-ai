@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 SiemertAI - KI-gestütztes Projektmanagement für Elektrokonstruktion
 
 > **Zukunftsweisende Lösung mit 10 Jahren technologischem Vorsprung**
@@ -189,3 +190,7 @@ Dieses Projekt ist unter der MIT Lizenz veröffentlicht. Siehe [LICENSE](LICENSE
 ---
 
 **Made with ❤️ for the future of electrical engineering**
+=======
+# siemert-ai
+🤖 KI-gestütztes Projektmanagement für Elektrokonstruktion
+>>>>>>> 21ef649228105a0cabbf4b4eb65ab9dbdc317012
